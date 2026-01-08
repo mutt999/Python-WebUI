@@ -6,7 +6,8 @@ The backend and frontend communicate seamlessly through a lightweight JSON-RPC i
 
 ## 🚀 Requirements
 
-- **Python 3** installed  
+- **Python 3** installed
+- **Node.js with npm ** installed
 - (Optional) A terminal/command prompt to run the setup scripts
 
 ---
@@ -27,8 +28,14 @@ call app_env_create.bat
 call app_env_restore.bat
 ```
 
-### 3. Start the application
+### 3. Build web part
 
 ```bash
-call call app_main_ui.bat
+call web_build.bat
+```
+
+### 4. Start the application
+
+```bash
+call app_main_ui.bat
 ```
