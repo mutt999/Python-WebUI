@@ -7,7 +7,7 @@ The backend and frontend communicate seamlessly through a lightweight JSON-RPC i
 ## 🚀 Requirements
 
 - **Python 3** installed
-- **Node.js with npm ** installed
+- **Node.js with npm** installed
 - (Optional) A terminal/command prompt to run the setup scripts
 
 ---
