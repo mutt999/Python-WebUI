@@ -8,6 +8,7 @@ The backend and frontend communicate seamlessly through a lightweight JSON-RPC i
 
 - **Python 3** installed
 - **Node.js with npm** installed
+- Requires Microsoft WebView2 (preinstalled on Windows 11)
 - (Optional) A terminal/command prompt to run the setup scripts
 
 ---
